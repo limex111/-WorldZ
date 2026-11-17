@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 60: Line is indented, but the preceding ATL statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    "bg pom1"
+    ^
+
+Ren'Py Version: Ren'Py 8.2.0.24012702
+Fri Apr  5 19:30:20 2024
